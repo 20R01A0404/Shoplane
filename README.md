@@ -16,13 +16,13 @@ Checkout this link <a href="20r01a0404.github.io/Shoplane/">Shoplane</a> and exp
 Navigate effortlessly through our user-friendly platform and finding your perfect style with ease .
 
 
-<b>Product catalog</b>:
+<b>>Product catalog</b>:
 
 
 A limited range of clothing and accessories.
 
 
-<b>Seamless Shopping Experience</b> :
+<b>>Seamless Shopping Experience</b> :
 
 
 
