@@ -21,7 +21,7 @@ No installation by using npm or yarn.
 
 
 <h5> Run the Project</h5> :
-<img style="width:2px,height:5px" src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default"/>
+<img style="width:2px,height:5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qFV8dxdP-jTNqWZyH6fjCFDPGITimNvI8w&s"/>
 In the Application of VS code the Projects related code of Html file should be open on the new tab .
 By having the file open the running command for the project's code is Go with live server. 
 After clicking on it the web browser get open and the required output for the project is shown.
