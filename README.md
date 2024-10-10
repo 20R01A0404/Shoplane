@@ -1,6 +1,6 @@
 <h5>Overview:</h5>
 
-<img style="width:3px, heigth:5px" src="https://cdn-icons-png.freepik.com/256/1150/1150592.png?semt=ais_hybrid"/>
+<img src="https://cdn-icons-png.freepik.com/256/1150/1150592.png?semt=ais_hybrid width:3px, heigth:5px "/>
 Shoplane is a E-Commerce platform designed to provide users with a seamless and enjoyable online shopping experience for fashion items.The platform offers a collection of clothing and accessories , catering to diverse tastes and styles.Shopping with a dynamic website which shows a good interests and having a good experience to the users.This platform which is having an adding and removing the product selection from the cart. This website is made with a responsive which can adaptive to any kind of devices on the screen.It is developed by using HTML , CSS , Javascript.
 Checkout this link <a href="20r01a0404.github.io/Shoplane/">Shoplane</a> and experience the online shopping.
 
