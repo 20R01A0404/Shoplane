@@ -1,6 +1,5 @@
 <h5>Overview:</h5>
 
-<img src="https://cdn-icons-png.freepik.com/256/1150/1150592.png?w=20&semt=ais_hybrid "/>
 Shoplane is a E-Commerce platform designed to provide users with a seamless and enjoyable online shopping experience for fashion items.The platform offers a collection of clothing and accessories , catering to diverse tastes and styles.Shopping with a dynamic website which shows a good interests and having a good experience to the users.This platform which is having an adding and removing the product selection from the cart. This website is made with a responsive which can adaptive to any kind of devices on the screen.It is developed by using HTML , CSS , Javascript.
 Checkout this link <a href="20r01a0404.github.io/Shoplane/">Shoplane</a> and experience the online shopping.
 
@@ -12,18 +11,18 @@ Checkout this link <a href="20r01a0404.github.io/Shoplane/">Shoplane</a> and exp
 <h5>Key Features:</h5>
 
 
-<b>>User-friendly interface</b> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTUMpk5HGpksfEllHRYn-KJgt3x7xyuvHoQ&s?w=10"/> :
+<b>>User-friendly interface</b> :
 
 Navigate effortlessly through our user-friendly platform and finding your perfect style with ease .
 
 
-<b>Product catalog</b> <img src="https://thumbs.dreamstime.com/z/product-catalog-icon-isolated-white-background-your-web-mobile-app-design-133862573.jpg?w=10"/> :
+<b>Product catalog</b>:
 
 
 A limited range of clothing and accessories.
 
 
-<b>Seamless Shopping Experience</b> <img src="https://cdn-icons-png.flaticon.com/512/2649/2649179.png?w=20"/> :
+<b>Seamless Shopping Experience</b> :
 
 
 
@@ -33,15 +32,11 @@ Add items to cart with a simple click , and enjoy a hassle-free checkout process
 <h5>Installation Steps</h5> :
 No installation by using npm or yarn.
 
-<img src="https://cdn.dribbble.com/users/6569/screenshots/16471177/media/8bbfe7fd594073dc6271d5d852c7381a.png?w=20&vertical=center"/>
-
-
 Extension of VS code by installing the Live Server.
 
 
 <h5> Run the Project</h5> :
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qFV8dxdP-jTNqWZyH6fjCFDPGITimNvI8w&s"/>
-
 
 
 In the Application of VS code the Projects related code of Html file should be open on the new tab .
